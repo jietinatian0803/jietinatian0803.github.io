@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jietinatian0803.github.io/sitemap.xml
