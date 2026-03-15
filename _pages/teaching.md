@@ -1,15 +1,28 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+title: Teaching
+# description: Course materials, schedules, and resources for classes taught.
 nav: true
 nav_order: 6
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## University of Nevada, Reno
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+**Math 127 – Precalculus 2** (Spring 2026)
+Instructor of Record. Trigonometric functions, identities and equations; conic sections; complex numbers; polar coordinates, vectors; systems of equations, matrix algebra and more.
 
-{% include courses.liquid %}
+**Math 182 – Calculus 2** (Fall 2025)
+Teaching Assistant. Methods of integration. Sequences and series, power series.
+
+**Math 181 – Calculus 1** (Spring 2025)
+Teaching Assistant. Fundamental concepts of analytic geometry and calculus; functions, graphs, limits, derivatives and integrals.
+
+**Math 181 – Calculus 1** (Fall 2024)
+Teaching Assistant. Fundamental concepts of analytic geometry and calculus; functions, graphs, limits, derivatives and integrals.
+
+## Shanghai University
+
+**Teaching Assistant** (Sep. 2021 – June 2023, 6 semesters)
+Grading homework and recording student performance.
