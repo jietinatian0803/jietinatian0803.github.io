@@ -10,6 +10,9 @@ calendar: true
 
 ## University of Nevada, Reno
 
+**Math 120E – Fundamentals of College Mathematics (Expanded)** (Fall 2026)
+Instructor of Record (4 credits). Sets, logic, probability, statistics, consumer mathematics, variation, geometry and trigonometry for measurement, and linear, quadratic, exponential, and logarithmic functions, with an emphasis on problem solving and applications.
+
 **Math 127 – Precalculus 2** (Spring 2026)
 Instructor of Record. Trigonometric functions, identities and equations; conic sections; complex numbers; polar coordinates, vectors; systems of equations, matrix algebra and more.
 

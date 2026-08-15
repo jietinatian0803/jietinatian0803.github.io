@@ -16,10 +16,10 @@ ILAS-JMM Special Session on Matrix Analysis and Application, Joint Mathematics M
 ILAS-JMM Special Session on Matrix Analysis and Application, Joint Mathematics Meeting, Washington, DC, USA, January 3–7, 2026.
 
 **Revisiting the Upper Bild Convexity of Quaternionic Numerical Range**
-27th Conference of the International Linear Algebra Society (ILAS 2026), Virginia Tech, Blacksburg, VA, May 18–22, 2026. *(Accepted)*
+27th Conference of the International Linear Algebra Society (ILAS 2026), Virginia Tech, Blacksburg, VA, May 18–22, 2026.
 
 
 ## Contributed Talks
 
 **Generalized Eigenvalues of a Third Order Quaternion Tensor and Multilinear Discriminant Analysis Under Qt-Product**
-2026 SIAM Annual Meeting (AN26), Cleveland, OH, July 6–10, 2026. *(Submitted)*
+2026 SIAM Annual Meeting (AN26), Cleveland, OH, July 6–10, 2026.
