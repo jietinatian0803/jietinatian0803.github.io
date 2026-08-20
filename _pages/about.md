@@ -27,15 +27,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
- 
-
 **Research Interests**
+
 - Matrix Theory and Numerical Linear Algebra
 - Multilinear Algebra and Computational Methods for Tensor Data Analysis
 - Algebraic and Geometric Structures of Quaternions with Applications
-
+- Optimization
+- Uncertainty Quantification
+- Inverse Problems
+- Machine Learning
 
 **Education**
+
 - Ph.D. in Applied Mathematics, University of Nevada, Reno (2024–Present)
 - M.Sc. in Pure Mathematics, Shanghai University (2021–2024)
 - B.Sc. in Mathematics and Applied Mathematics, Hebei University of Science and Technology (2017–2021)
