@@ -9,6 +9,9 @@ nav_order: 4
 
 ## Invited Talks
 
+**So–Thompson's Proof of Upper Bild Convexity via Convex Optimization** _(Upcoming)_
+ILAS-JMM Special Session on Matrix Analysis and Applications, Joint Mathematics Meetings, Chicago, USA, January 12–15, 2027.
+
 **Simultaneous Decomposition of Quaternion Matrices and Its Application in Image Processing**
 ILAS-JMM Special Session on Matrix Analysis and Application, Joint Mathematics Meeting, Seattle, USA, January 7–11, 2025.
 
@@ -17,7 +20,6 @@ ILAS-JMM Special Session on Matrix Analysis and Application, Joint Mathematics M
 
 **Revisiting the Upper Bild Convexity of Quaternionic Numerical Range**
 27th Conference of the International Linear Algebra Society (ILAS 2026), Virginia Tech, Blacksburg, VA, May 18–22, 2026.
-
 
 ## Contributed Talks
 

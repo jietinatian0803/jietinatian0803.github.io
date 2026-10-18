@@ -27,6 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am a Ph.D. student in Applied Mathematics at the University of Nevada, Reno, with a strong foundation in convex optimization, numerical and randomized linear algebra, and computational methods on manifolds. My research connects quaternion matrix and tensor methods with representation learning and scientific computing.
+
+Since September 2026, I have also been collaborating with a faculty member in Computer Science and Engineering on LLM and agent post-training, including knowledge distillation, on-policy training, and reproducible training and evaluation workflows.
+
+[View my academic CV]({{ '/cv/' | relative_url }})
+
 **Research Interests**
 
 - Matrix Theory and Numerical Linear Algebra
@@ -36,6 +42,10 @@ latest_posts:
 - Uncertainty Quantification
 - Inverse Problems
 - Machine Learning
+- Randomized Linear Algebra and Low-Rank Approximation
+- Computational Methods on Manifolds
+- Stochastic Processes and Markov Chains
+- LLM and Agent Post-Training, Knowledge Distillation, and Reinforcement Learning
 
 **Education**
 
