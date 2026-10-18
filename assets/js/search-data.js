@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/talks/";
           },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "Jie Tian&#39;s academic curriculum vitae, research, teaching, and technical background.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "",
