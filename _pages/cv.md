@@ -32,7 +32,7 @@ Completed coursework and passed qualifying exams in Real/Functional Analysis, Li
 
 ### LLM and Agent Post-Training
 
-**Research collaboration, Department of Computer Science and Engineering, University of Nevada, Reno** — September 2026–Present
+**LLM and Agent Post-Training Research, University of Nevada, Reno** — September 2026–Present
 
 - Independently design and implement experiments in knowledge distillation and LLM post-training, including supervised fine-tuning (SFT), reinforcement learning with verifiable rewards (RLVR), on-policy distillation (OPD), and self-distillation.
 - Develop PyTorch/Transformers training and evaluation workflows with student rollout generation, frozen-teacher scoring, sampled-token teacher–student rewards, and clipped on-policy updates.
