@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Student in Applied Mathematics · <a href="https://www.unr.edu/math">University of Nevada, Reno</a>
+subtitle: Ph.D. student in Mathematics with a specialization in Applied Mathematics · <a href="https://www.unr.edu/math">University of Nevada, Reno</a>
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Applied Mathematics at the University of Nevada, Reno, with a strong foundation in convex optimization, numerical and randomized linear algebra, and computational methods on manifolds. My research connects quaternion matrix and tensor methods with representation learning and scientific computing.
+I am a Ph.D. student in Mathematics with a specialization in Applied Mathematics at the University of Nevada, Reno, with a strong foundation in convex optimization, numerical and randomized linear algebra, and computational methods on manifolds. My research connects quaternion matrix and tensor methods with representation learning and scientific computing.
 
 Since September 2026, I have also been researching LLM and agent post-training, including knowledge distillation, on-policy training, and reproducible training and evaluation workflows.
 
@@ -49,6 +49,6 @@ Since September 2026, I have also been researching LLM and agent post-training, 
 
 **Education**
 
-- Ph.D. in Applied Mathematics, University of Nevada, Reno (2024–Present)
+- Ph.D. student in Mathematics with a specialization in Applied Mathematics, University of Nevada, Reno (2024–Present)
 - M.Sc. in Pure Mathematics, Shanghai University (2021–2024)
 - B.Sc. in Mathematics and Applied Mathematics, Hebei University of Science and Technology (2017–2021)

@@ -11,7 +11,7 @@ description: Jie Tian's academic curriculum vitae, research, teaching, and techn
 
 ## Education
 
-**University of Nevada, Reno** — Ph.D. Student in Applied Mathematics, August 2024–Present. Expected graduation: May 2028. GPA: 3.930/4.0.
+**University of Nevada, Reno** — Ph.D. student in Mathematics with a specialization in Applied Mathematics, August 2024–Present. Expected graduation: May 2028. GPA: 3.930/4.0.
 
 Completed coursework and passed qualifying exams in Real/Functional Analysis, Linear/Numerical Linear Algebra, and Nonlinear Dynamics with High Pass. Dissertation research is ongoing.
 
