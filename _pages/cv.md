@@ -45,7 +45,7 @@ Completed coursework and passed qualifying exams in Real/Functional Analysis, Li
 
 **Quaternionic Upper Bild Convexity and Optimization**
 
-Study the convexity and geometric structure of quaternionic numerical ranges through constrained real optimization and manifold methods. Develop boundary characterizations and computational validation for generic and degenerate matrix cases. Manuscript in preparation.
+Study the convexity and geometric structure of quaternionic numerical ranges through constrained real optimization and manifold methods. Develop boundary characterizations and computational validation for generic and degenerate matrix cases. Preprint with Tin-Yau Tam: [Revisiting the Upper Bild of Quaternionic Numerical Ranges](https://arxiv.org/abs/2611.04044) (2026).
 
 **FFT-Based Quaternion Tensor Decomposition, PCA, and ICA**
 
@@ -74,6 +74,8 @@ Modeled phase-type disease-stage durations and derived the basic reproduction nu
 These projects support ongoing study of discrete-time and continuous-time Markov chains, transition matrices, generators, and absorption times, including connections between continuous-time Markov chains and Erlang/phase-type distributed delays.
 
 ## Publications and Presentations
+
+**Preprint:** Jie Tian and Tin-Yau Tam, “Revisiting the Upper Bild of Quaternionic Numerical Ranges” (2026). [arXiv:2611.04044](https://arxiv.org/abs/2611.04044) · [DOI](https://doi.org/10.48550/arXiv.2611.04044).
 
 Coauthor of three peer-reviewed papers in _Symmetry_ (2022), _Computational and Applied Mathematics_ (2024), and _Mathematics_ (2024). See the [publication list]({{ '/publications/' | relative_url }}) for full citations.
 
