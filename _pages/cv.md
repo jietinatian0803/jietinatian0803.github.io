@@ -30,7 +30,7 @@ Completed coursework and passed qualifying exams in Real/Functional Analysis, Li
 
 ## Research Experience
 
-### LLM and Agent Post-Training
+### LLM and Agent Post-Training and AI Safety
 
 **LLM and Agent Post-Training Research, University of Nevada, Reno** — September 2026–Present
 
@@ -38,6 +38,7 @@ Completed coursework and passed qualifying exams in Real/Functional Analysis, Li
 - Develop PyTorch/Transformers training and evaluation workflows with student rollout generation, frozen-teacher scoring, sampled-token teacher–student rewards, and clipped on-policy updates.
 - Build reproducible experiment controllers for multi-GPU veRL configurations, including Hydra settings, checkpointing, validation schedules, run metadata, and log parsing.
 - Develop diagnostics for GPU memory, training failures, reward/KL, top-k overlap, teacher–student consistency, entropy, gradients, timing, throughput, and task accuracy; extend studies toward agentic and function-calling settings.
+- Investigate multi-teacher on-policy distillation and privacy risks through membership inference evaluation.
 
 ### Mathematical and Computational Research
 
@@ -51,15 +52,14 @@ Study the convexity and geometric structure of quaternionic numerical ranges thr
 
 Develop FFT-based quaternion tensor decompositions and spectral methods for image and video data, preserving coupled color-channel structure. Investigate principal component analysis (PCA), independent component analysis (ICA), and multilinear discriminant analysis for dimensionality reduction and representation learning.
 
-**EffLoRA: Memory-Efficient PiSSA Initialization for LoRA and QLoRA**
+## Open-Source Contributions
 
-Developed checkpoint-backed, layer-wise and streaming PiSSA initialization from safetensors checkpoints, integrating randomized SVD, residual-checkpoint generation, and PEFT adapters.
+**EffLoRA: Memory-Efficient PiSSA Initialization for Hugging Face PEFT**
 
-- On Qwen3-8B with an RTX A6000, streaming reduced peak PyTorch GPU allocation during preparation from **15.9 GiB to 0.18 GiB**, with preparation times of **31 s versus 21 s** for the standard PEFT procedure. These measurements cover initialization, exclude the CUDA context, and do not describe training-peak memory.
-- Verified bitwise-identical output between the layer-wise fast mode and standard PEFT PiSSA for the tested Qwen3 1.7B/4B/8B models and software stack.
-- In a three-seed GSM8K fine-tuning experiment using Qwen3-1.7B with NF4 quantization, mean test accuracy was **54.3% for streaming QPiSSA versus 54.6% for PEFT QPiSSA**; these results do not establish statistical equivalence.
+- Implemented `replace_lora_weights_pissa` for layer-wise PiSSA initialization of models already loaded in 4-bit. [PR #4135](https://github.com/huggingface/peft/pull/4135) merged into Hugging Face PEFT's `main` branch in November 2026.
+- In the public PR benchmark on Qwen3-8B, peak GPU allocation during initialization decreased from **15.9 GiB to 6.4 GiB** (about 60%) compared with the documented PEFT workflow, with bitwise-identical outputs in the tested configuration.
 
-Code forthcoming. Related CSE27 presentation submitted; ongoing work on randomized low-rank initialization and memory-efficient fine-tuning workflows.
+Related talk abstract submitted to the 2027 SIAM Conference on Computational Science and Engineering (CSE27).
 
 ## Selected Course Projects
 
