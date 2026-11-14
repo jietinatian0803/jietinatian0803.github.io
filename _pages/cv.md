@@ -63,23 +63,28 @@ Related talk abstract submitted to the 2027 SIAM Conference on Computational Sci
 
 ## Selected Course Projects
 
-**Delay-Induced Oscillations in a Logistic–Allee Model with Harvesting** — Math 721, December 2025
+**Delay-Induced Oscillations in a Logistic–Allee Model with Harvesting** — Math 721, December 2025. [Project report (PDF)]({{ '/assets/pdf/math-721-logistic-allee.pdf' | relative_url }}).
 
 Analyzed stability and Hopf bifurcation using Erlang-chain approximations; derived characteristic equations, computed critical delays, and studied convergence of the approximation.
 
-**SEQIRS and SEIR–SEI Epidemic Models via the Generalized Linear Chain Trick** — Math 722, May 2026
+**Modeling and R₀ Analysis of SEQIRS and SEIR–SEI Epidemic Models via the Generalized Linear Chain Trick** — Math 722, May 2026. [Project report (PDF)]({{ '/assets/pdf/math-722-epidemic-models.pdf' | relative_url }}).
 
 Modeled phase-type disease-stage durations and derived the basic reproduction number using next-generation matrices, examining quarantine and host–vector transmission.
 
 These projects support ongoing study of discrete-time and continuous-time Markov chains, transition matrices, generators, and absorption times, including connections between continuous-time Markov chains and Erlang/phase-type distributed delays.
 
-## Publications and Presentations
+## Publications
 
 **Preprint:** Jie Tian and Tin-Yau Tam, “Revisiting the Upper Bild of Quaternionic Numerical Ranges” (2026). [arXiv:2611.04044](https://arxiv.org/abs/2611.04044) · [DOI](https://doi.org/10.48550/arXiv.2611.04044).
 
 Coauthor of three peer-reviewed papers in _Symmetry_ (2022), _Computational and Applied Mathematics_ (2024), and _Mathematics_ (2024). See the [publication list]({{ '/publications/' | relative_url }}) for full citations.
 
-Invited talks at JMM 2025/2026 and ILAS 2026; contributed talk at the SIAM Annual Meeting 2026. See [Talks]({{ '/talks/' | relative_url }}).
+## Presentations
+
+- **Qt-Eigenvalue Theory of Third-Order Quaternion Tensors** — Joint Mathematics Meetings (JMM 2026), Washington, DC, January 5, 2026. Includes numerical experiments on Qt-PCA-SD. [Slides (PDF)]({{ '/assets/pdf/jmm-2026-qt-eigenvalues.pdf' | relative_url }}).
+- **Generalized Eigenvalues of Third-Order Quaternion Tensors and Multilinear Discriminant Analysis Under Qt-Product** — SIAM Annual Meeting (AN26), Cleveland, OH, July 6–10, 2026. [Slides (PDF)]({{ '/assets/pdf/siam-an26-qt-mlda.pdf' | relative_url }}).
+
+See [Talks]({{ '/talks/' | relative_url }}) for the full list, including invited talks at JMM 2025 and ILAS 2026.
 
 **Upcoming invited talk:** “So–Thompson's Proof of Upper Bild Convexity via Convex Optimization,” ILAS–JMM Special Session on Matrix Analysis and Applications, Joint Mathematics Meetings, Chicago, January 12–15, 2027.
 
