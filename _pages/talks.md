@@ -9,6 +9,9 @@ nav_order: 4
 
 ## Invited Talks
 
+**Geometry and Optimization in Autonomous Driving**
+The Trojan Math Seminar, Troy University, November 18, 2026. [Slides (PDF)]({{ '/assets/pdf/trojan-2026-driving-geometry.pdf' | relative_url }}).
+
 **So–Thompson's Proof of Upper Bild Convexity via Convex Optimization** _(Upcoming)_
 ILAS-JMM Special Session on Matrix Analysis and Applications, Joint Mathematics Meetings, Chicago, USA, January 12–15, 2027.
 

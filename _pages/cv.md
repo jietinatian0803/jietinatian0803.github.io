@@ -81,6 +81,8 @@ Coauthor of three peer-reviewed papers in _Symmetry_ (2022), _Computational and 
 
 ## Presentations
 
+- **Geometry and Optimization in Autonomous Driving** — The Trojan Math Seminar, Troy University, November 18, 2026. A seminar connecting Lie groups and quaternions, manifold optimization, geometric deep learning, and traffic-network optimization. [Slides (PDF)]({{ '/assets/pdf/trojan-2026-driving-geometry.pdf' | relative_url }}).
+
 - **Qt-Eigenvalue Theory of Third-Order Quaternion Tensors** — Joint Mathematics Meetings (JMM 2026), Washington, DC, January 5, 2026. Includes numerical experiments on Qt-PCA-SD. [Slides (PDF)]({{ '/assets/pdf/jmm-2026-qt-eigenvalues.pdf' | relative_url }}).
 - **Generalized Eigenvalues of Third-Order Quaternion Tensors and Multilinear Discriminant Analysis Under Qt-Product** — SIAM Annual Meeting (AN26), Cleveland, OH, July 6–10, 2026. [Slides (PDF)]({{ '/assets/pdf/siam-an26-qt-mlda.pdf' | relative_url }}).
 
